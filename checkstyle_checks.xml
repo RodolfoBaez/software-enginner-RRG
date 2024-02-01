@@ -200,7 +200,7 @@
       <property name="throwsIndent" value="4"/>
       <property name="lineWrappingIndentation" value="4"/>
       <property name="arrayInitIndent" value="2"/>
-b   </module>
+   </module>
       
   </module>
 </module>
