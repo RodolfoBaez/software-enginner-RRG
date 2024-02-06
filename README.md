@@ -18,3 +18,6 @@ Example: input is 17
 8 is even, so perform the operation 8 / 2 = 4
 4 is even, so perform the operation 4 / 2 = 2
 2 is even, so perform the operation 2 / 2 = 1
+
+System Diagram 
+![Screenshot 2024-02-06 155718](https://github.com/RodolfoBaez/software-enginner-RRG/assets/47578524/0ebfad58-c34d-4652-8793-0477e63223b8)
