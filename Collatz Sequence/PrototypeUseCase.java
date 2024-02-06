@@ -1,3 +1,4 @@
+/*
 class PrototypeUseCase {
  public void CollatzSequence(startingNumberForSequence userInput) {
   //network boundary connects User to CE1
@@ -23,4 +24,4 @@ class PrototypeUseCase {
   }  
  }
 }
-
+*/
