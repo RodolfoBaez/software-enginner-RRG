@@ -1,9 +1,14 @@
 public interface CEOneInterface {
-    // checking the user input must be a csv, will be sent to data storage to be converted into int[]
-    // checking if the intArr is correct, will be sent to CE2 for computation 
-    // checking if intArrDouble is correct, it is the output of CE2, will be send to Data Storage to be converted into csv file with 2 rows 
-    boolean isCsvFile(String userInput);
-    boolean isIntArray(Object userInput);
-    boolean isIntDoubleArray(Object userInput);
+//  method to check Program process is everything working as its supposed
+    //  was user input recesived by DS
+    boolean userInputRequest(String Path);
+    //  Was user input converted into int[] arr
+    boolean csvConvertedIntoIntarr();
+    // was the int[] arr coverted into double int[][] in CE2 after computation
+    boolean intArrToDoubleArr();
+    //  was the output from CE2 converted into csv for output type
+    boolean intArrDoubleToCsv();
+    // was the computed output csv returned to the user
+    boolean CSVBackToUser();
     
 }    
