@@ -61,7 +61,7 @@ The prerequisite for a valid input to the Collatz sequence is that the sequence 
 ---
 
 # System Diagram
-![Screenshot 2024-02-08 225913](https://github.com/RodolfoBaez/software-enginner-RRG/assets/47578524/ba2e4dc7-2416-4794-93a4-99457b38a3e1)
+![Screenshot 2024-02-12 174141](https://github.com/RodolfoBaez/software-enginner-RRG/assets/47578524/2aad2878-6238-4a39-9d2d-c5832afd285c)
 
 ---
 
