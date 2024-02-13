@@ -1,9 +1,6 @@
 package test;
-
 import static org.mockito.Mockito.mock;
-
 import org.junit.Test;
-
 import Collatz.src.ConceptualAPI;
 import Collatz.src.ConceptualAPIInterface;
 
