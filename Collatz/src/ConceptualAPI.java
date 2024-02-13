@@ -1,4 +1,4 @@
-package Collatz.src;
+package collatz.src;
 public class ConceptualAPI implements ConceptualAPIInterface {
     public ConceptualAPI(ConceptualAPIInterface mockAPI) {
         //TODO Auto-generated constructor stub

@@ -1,4 +1,4 @@
-package Collatz.src;
+package collatz.src;
 public interface DsInterface {
     // method will take in csvpath and convert csv into int[] to be work on in CE
     boolean isCsvFile(String userInput);

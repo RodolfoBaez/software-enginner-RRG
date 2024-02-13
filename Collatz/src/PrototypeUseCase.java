@@ -1,4 +1,4 @@
-package Collatz.src;
+package collatz.src;
 /*
 class PrototypeUseCase {
  public void CollatzSequence(startingNumberForSequence userInput) {

@@ -1,8 +1,7 @@
 package test;
 import java.util.ArrayList;
 import java.util.List;
-
-import Collatz.src.InputConfig;
+import collatz.src.InputConfig;
 
 public class TestInputConfig implements InputConfig {
 

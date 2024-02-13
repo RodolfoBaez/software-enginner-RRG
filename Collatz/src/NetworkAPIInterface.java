@@ -1,4 +1,4 @@
-package Collatz.src;
+package collatz.src;
 public interface NetworkAPIInterface {
     // sending input as path
     // geting the delimeter will be ';'

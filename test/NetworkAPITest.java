@@ -4,8 +4,9 @@ import org.junit.Before;
 import org.junit.Test;
 import org.mockito.Mock;
 import org.mockito.Mockito;
-import Collatz.src.NetworkAPI;
-import Collatz.src.User;
+
+import collatz.src.NetworkAPI;
+import collatz.src.User;
 
 
 public class NetworkAPITest {

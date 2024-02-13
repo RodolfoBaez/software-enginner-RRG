@@ -1,4 +1,4 @@
-package Collatz.src;
+package collatz.src;
 public interface ProcressAPIInterface {
    
     // sending int[] from ds to ce

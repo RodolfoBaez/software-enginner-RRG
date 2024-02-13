@@ -1,7 +1,7 @@
 package test;
 import java.util.ArrayList;
 import java.util.List;
-import Collatz.src.OutputConfig;
+import collatz.src.OutputConfig;
 
 public class TestOutputConfig implements OutputConfig {
 

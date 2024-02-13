@@ -1,7 +1,9 @@
 package test;
 import org.junit.Test;
-import Collatz.src.InputConfig;
-import Collatz.src.OutputConfig;
+
+import collatz.src.InputConfig;
+import collatz.src.OutputConfig;
+
 import static org.junit.Assert.assertEquals;
 import java.util.List;
 

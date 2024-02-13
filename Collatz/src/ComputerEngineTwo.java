@@ -1,4 +1,4 @@
-package Collatz.src;
+package collatz.src;
 public class ComputerEngineTwo implements CETwoInterface {
     public int[][] collatzSequence(int[] input){
         int[][] arr = {{0,0}};

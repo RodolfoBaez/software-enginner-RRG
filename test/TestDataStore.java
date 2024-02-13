@@ -1,9 +1,8 @@
 package test;
 import java.util.List;
-
-import Collatz.src.DsInterface;
-import Collatz.src.InputConfig;
-import Collatz.src.OutputConfig;
+import collatz.src.DsInterface;
+import collatz.src.InputConfig;
+import collatz.src.OutputConfig;
 
 public class TestDataStore implements DsInterface {
 

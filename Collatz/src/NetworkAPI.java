@@ -1,6 +1,4 @@
-package Collatz.src;
-
-
+package collatz.src;
 public class NetworkAPI implements NetworkAPIInterface {
     
     public String getPath(User inputPath){

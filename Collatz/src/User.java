@@ -1,4 +1,4 @@
-package Collatz.src;
+package collatz.src;
 public class User{
     public String inputPath;
     public String outputPath;

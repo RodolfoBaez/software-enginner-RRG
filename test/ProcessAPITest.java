@@ -1,6 +1,7 @@
 package test;
 import org.junit.Test;
-import Collatz.src.ProcessAPI;
+
+import collatz.src.ProcessAPI;
 public class ProcessAPITest {
 
     @Test

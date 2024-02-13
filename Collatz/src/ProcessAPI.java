@@ -1,4 +1,4 @@
-package Collatz.src;
+package collatz.src;
 public class ProcessAPI implements ProcressAPIInterface {
 
     public int[] getInputArr(){

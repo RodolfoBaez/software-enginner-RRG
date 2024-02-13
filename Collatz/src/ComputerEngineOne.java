@@ -1,4 +1,4 @@
-package Collatz.src;
+package collatz.src;
 public class ComputerEngineOne implements CEOneInterface {
 
     public boolean userInputRequest(String path){

@@ -1,4 +1,4 @@
-package Collatz.src;
+package collatz.src;
 import java.util.List;
 
 public interface InputConfig {

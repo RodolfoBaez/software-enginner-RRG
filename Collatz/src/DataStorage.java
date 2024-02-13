@@ -1,4 +1,4 @@
-package Collatz.src;
+package collatz.src;
 public class DataStorage implements DsInterface {
     public boolean isCsvFile(String userInput){
         return false;

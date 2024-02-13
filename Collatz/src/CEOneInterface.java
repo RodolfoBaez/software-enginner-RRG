@@ -1,4 +1,4 @@
-package Collatz.src;
+package collatz.src;
 public interface CEOneInterface {
 //  method to check Program process is everything working as its supposed
     //  was user input recesived by DS
