@@ -4,9 +4,10 @@ public class ConceptualAPI implements ConceptualAPIInterface {
         //TODO Auto-generated constructor stub
     }
 
-    public int[][] ComputedIntDoubleArr(int[] arrayFromUserInput){
+    public int[][] computedIntDoubleArr(int[] arrayFromUserInput){
         int[][] arr = {{0,0}};
         return arr;
     }
+
    
 }
