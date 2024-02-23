@@ -2,10 +2,10 @@ package collatz.src;
 public interface ProcressAPIInterface {
    
     // sending int[] from ds to ce
-    int[] getInputArr();
+    int[] getInputArr(String path);
 
     // sending int[][] from ce2 to ds to be converted into csv
-    int[][] getOutput();
+    void writeDoubleArrToCsv(int[][] array, String filename);
     
   
 }
