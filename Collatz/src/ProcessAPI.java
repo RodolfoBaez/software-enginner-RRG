@@ -1,13 +1,13 @@
 package collatz.src;
 public class ProcessAPI implements ProcressAPIInterface {
-
-    public int[] getInputArr(){
-        int[] arr = {0};
-        return arr;
+    //creating ds object to gain access to data storage
+    DataStorage ds = new DataStorage();
+    
+    public int[] getInputArr(String path){
+        return ds.readFirstRowAsIntegers(path);
     }
 
-    public int[][] getOutput(){
-        int[][] arr = {{0,0}};
-        return arr;
+    public void writeDoubleArrToCsv(int[][] array, String filename){
+         ds.writeDoubleArrToCsv(array,filename);
     }
 }

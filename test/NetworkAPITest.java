@@ -22,7 +22,7 @@ public class NetworkAPITest {
 
     @Test
     public void testGetPath() {
-        networkAPI.getPath(user);
+        networkAPI.getInputPath();
     }
 
     @Test

@@ -14,16 +14,6 @@ public class TestDataStore implements DsInterface {
         this.outputConfig = outputConfig;
     }
 
-    @Override
-    public void processData() {
-        // Read input data from input configuration
-        List<Integer> inputData = inputConfig.getInputData();
-
-        // Perform processing (not implemented in this example)
-
-        // Write output data to output configuration
-        outputConfig.writeOutput("Processed data"); // Example: Writing a dummy output
-    }
 
     @Override
     public boolean isCsvFile(String userInput) {
