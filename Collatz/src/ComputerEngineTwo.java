@@ -7,7 +7,7 @@ public class ComputerEngineTwo implements CETwoInterface {
 
     for (int i = 0; i < inputArray.length; i++) {
       int number = inputArray[i];
-      ArrayList < Integer > sequence = new ArrayList < > ();
+      ArrayList <Integer> sequence = new ArrayList <> ();
       sequence.add(number); // Add the initial number to the sequence
 
       // Generate the Collatz sequence
