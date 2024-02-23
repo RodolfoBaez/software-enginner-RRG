@@ -21,7 +21,7 @@ public class ConceptualAPITest {
         int[][] expectedOutput = {{0, 0}};
 
         // Call the method being tested
-        int[][] actualOutput = api.ComputedIntDoubleArr(inputArray);
+        int[][] actualOutput = api.computedIntDoubleArr(inputArray);
 
 
     }
